@@ -1,6 +1,6 @@
 package ch.epfl.moocprog;
 
-public final class Positionable {
+public class Positionable {
 	private ToricPosition position;
 
 	public Positionable() {
